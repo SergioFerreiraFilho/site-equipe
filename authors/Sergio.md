@@ -2,9 +2,9 @@
 - FullStack Developer
 > Aquiraz, Ceará, Brasil
 
----
+```
 Héroi em tempo integral...
----
+```
 - [Site/Curriculo](https://sergioferreirafilho.github.io)
 
 
