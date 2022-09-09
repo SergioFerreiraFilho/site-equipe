@@ -2,4 +2,6 @@
 -FullStack Developer
 
 [Site/Curriculo](https://sergioferreirafilho.github.io)
-[Linkedin] (https://www.linkedin.com/in/sergioferreira06/)
+
+
+[Linkedin](https://www.linkedin.com/in/sergioferreira06/)
