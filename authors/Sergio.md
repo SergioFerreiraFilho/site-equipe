@@ -7,13 +7,13 @@ Héroi em tempo integral...
 ```
 
 ```css
-head {
+.teste {
     color: blue;
 }
 ```
 
 ```html
-<head>Musica</head>
+<head class="teste" >Musica</head>
 ```
 
 - [Site/Curriculo](https://sergioferreirafilho.github.io)
