@@ -1,6 +1,6 @@
 ## Ciro Jales
 
--- Fullstack Developer
+- Fullstack Developer
 
 IG: https://www.instagram.com/cirogomes/?hl=pt
 
