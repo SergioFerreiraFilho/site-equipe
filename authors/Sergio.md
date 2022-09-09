@@ -7,14 +7,12 @@ Héroi em tempo integral...
 ```
 
 ```css
-
 head {
     color: blue;
 }
 ```
 
 ```html
-
 <head>Musica</head>
 ```
 
