@@ -1,6 +1,7 @@
 ## Ciro Jales
 
 - Fullstack developer
+- Candidato a presidente
 
 ---
 
