@@ -1,3 +1,3 @@
 ## Ciro Jales
 
--- Fullstack developer
+-- Fullstack Developer
