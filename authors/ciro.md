@@ -1,7 +1,10 @@
 ## Ciro Jales
 
-- Fullstack developer e candidato a presidente
+- Fullstack developer
+- Candidato a presidente
 
-- [IG](https://www.instagram.com/cirogomes/?hl=pt)
+---
 
-- [Site pessoal](https://www.cirogomes.com.br/)
+[IG](https://www.instagram.com/cirogomes/?hl=pt)
+
+[Site pessoal](https://www.cirogomes.com.br/)
