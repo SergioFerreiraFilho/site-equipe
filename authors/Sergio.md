@@ -12,9 +12,13 @@ head {
     color: blue;
 }
 
+```
+
 ```html
 
 <head>Musica</head>
+
+```
 
 - [Site/Curriculo](https://sergioferreirafilho.github.io)
 
