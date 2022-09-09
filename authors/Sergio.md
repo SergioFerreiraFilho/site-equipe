@@ -1,7 +1,11 @@
 ## Sérgio Ferreira
--FullStack Developer
+- FullStack Developer
+> Aquiraz, Ceará, Brasil
 
-[Site/Curriculo](https://sergioferreirafilho.github.io)
+```
+Héroi em tempo integral...
+```
+- [Site/Curriculo](https://sergioferreirafilho.github.io)
 
 
-[Linkedin](https://www.linkedin.com/in/sergioferreira06/)
+- [Linkedin](https://www.linkedin.com/in/sergioferreira06/)
